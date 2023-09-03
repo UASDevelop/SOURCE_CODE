@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861031289799",
+    "project_id": "femfit-6dc8d",
+    "storage_bucket": "femfit-6dc8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861031289799:android:df6a6b6578270899d67fe2",
+        "android_client_info": {
+          "package_name": "com.femfit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861031289799-17j3jai4aovp9jrofttqslp2861d77tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHV-hW4yWAJ6o-2V3y2_TzAaQlC8Z7iwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861031289799-17j3jai4aovp9jrofttqslp2861d77tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
